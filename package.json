@@ -1,8 +1,8 @@
 {
   "name": "audio-correction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Audio stream correction utilities",
-  "main": "build/audio-correction.js",
+  "main": "build/index.js",
   "homepage": "https://github.com/resin-io/audio-correction",
   "repository": {
     "type": "git",
